@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">veo_ride_test_2</string>
+    <string name="skip">Skip</string>
+    <string name="start_riding">Start Riding</string>
+    <string name="scan_and_go">Scan and go</string>
+    <string name="safety_first">Safety first</string>
+    <string name="next">Next</string>
+    <string name="ride_option_appear_on_map">Our ride options will appear on the map.</string>
+    <string name="scan_the_code">Easily scan the code to get started.</string>
+    <string name="wear_helmet">Wear a helmet, follow the traffic rules and have fun!</string>
+    <string name="got_it">Got it!</string>
+</resources>
